@@ -84,8 +84,9 @@ deploy:
 	@echo 'Commited and deployed'
 
 html-es:
-	sphinx-intl build
-	$(MAKE) -e SPHINXOPTS="-D language='es'" html
+	$(SPHINXBUILD) -b html -D language='es' $(ALLSPHINXOPTS) $(BUILDDIR)/html
+	@echo
+	@echo "Build finished. The HTML pages are in $(BUILDDIR)/html."
 
 clean:
 	-rm -rf $(BUILDDIR)/*

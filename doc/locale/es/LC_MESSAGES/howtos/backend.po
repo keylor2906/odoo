@@ -549,7 +549,7 @@ msgid ""
 "``id`` is an :term:`external identifier`, it allows referring to the record (without "
 "having to know its in-database identifier)."
 msgstr ""
-"``id`` es un :term:`Identificador externo`, que permite hacer referencia a un "
+"``id`` es un :term:`external identifier`, que permite hacer referencia a un "
 "registro (sin necesidad de conocer su identificador en base de datos)."
 
 # eff8740e74d04d1cacefaf5c1fd25e4b

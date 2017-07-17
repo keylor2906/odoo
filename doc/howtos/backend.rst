@@ -1037,8 +1037,8 @@ their most common attributes are:
     record's field holding the start date/time for the event
 ``date_stop`` (optional)
     record's field holding the end date/time for the event
-
-field (to define the label for each calendar event)
+``string``
+    record's field to define the label for each calendar event
 
 .. code-block:: xml
 

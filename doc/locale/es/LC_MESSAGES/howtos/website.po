@@ -574,10 +574,10 @@ msgstr ""
 #: ../../howtos/website.rst:247
 msgid ""
 "As the name indicates, `converter patterns`_ don't just do extraction, "
-"they also do *validation* and *conversion*, so we can change the new "
+"they also do *validación* and *conversión*, so we can change the new "
 "controller to only accept integers:"
 msgstr ""
-"Como su nombre indica, los ‘patrones convertidores’ _ no sólo hacen la "
+"Como su nombre indica, los `converter patterns`_ no sólo hacen la "
 "extracción, también hacen la *validación* y la *conversión*, entonces "
 "podemos cambiar el controlador para que sólo acepte números enteros:"
 
